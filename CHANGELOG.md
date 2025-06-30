@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-11)
+## Unreleased (2025-06-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`803f30a`](https://github.com/stdlib-js/stdlib/commit/803f30a518a22fb4c01e5d2b82b37afd9f0d567d) - **test:** update import paths _(by Athan Reines)_
 -   [`11c00ff`](https://github.com/stdlib-js/stdlib/commit/11c00ffd0eeae29f3137fdc5ddbfb02c45223bf9) - **feat:** add `stats/array/varianceyc` _(by Athan Reines)_
 
 </details>
