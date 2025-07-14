@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-13)
+## Unreleased (2025-07-14)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`493ccaf`](https://github.com/stdlib-js/stdlib/commit/493ccaf407a78b7ea088b517a67053e2f7948487) - **test:** rename variable _(by Athan Reines)_
 -   [`2a0ea7f`](https://github.com/stdlib-js/stdlib/commit/2a0ea7feb22806685fef9eac8a32d7012dab7adc) - **fix:** use correct package names in package.json _(by Philipp Burckhardt)_
 -   [`33b006d`](https://github.com/stdlib-js/stdlib/commit/33b006da9166c233b4e423e1da318aa99f56db00) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`8bab4a2`](https://github.com/stdlib-js/stdlib/commit/8bab4a2397a58eba888eef94d552a68aa884f76c) - **docs:** fix description _(by Athan Reines)_
